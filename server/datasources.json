@@ -1,0 +1,16 @@
+{
+  "db": {
+    "name": "db",
+    "connector": "memory"
+  },
+  "libraria": {
+    "host": "127.0.0.1",
+    "port": 3006,
+    "url": "mysql://root:sainz123@127.0.0.1/libraria",
+    "database": "libraria",
+    "password": "sainz123",
+    "name": "libraria",
+    "user": "root",
+    "connector": "mysql"
+  }
+}
